@@ -42,8 +42,8 @@ if sugar_fasting_level <=80 :
 elif sugar_fasting_level >=100:
     print("Sugar is high")
 else:
-    print("Sugar is Normal")
-
+    print("Sugar is Normal") 
+ 
     
 
 
